@@ -10,7 +10,7 @@ def sum_of_products(list1, list2):
             number = int(list1[index]) * int(list2[index])
             number_total = number_total + number
             index = index + 1
-        print(number_total)
+        print(number_total, '\r\n')
         #else:
          #    print('Error')
          #   index = 0 #pass #rint('Error: you must only input integers')
