@@ -12,7 +12,7 @@ def sum_of_products(list1, list2):
             index = index + 1
         print(number_total, '\r\n')
         #else:
-         #    print('Error')
+         #     print('Error')
          #   index = 0 #pass #rint('Error: you must only input integers')
     else:
         print('Error') #: numbers must be the same length
