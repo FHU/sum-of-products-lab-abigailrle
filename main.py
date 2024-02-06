@@ -21,5 +21,6 @@ def sum_of_products(list1, list2):
 
 if __name__ == '__main__':
     input_list1 = input() #'type the first number'
-    input_list2 = input() #'type the second number'   
-    print(sum_of_products(input_list1, input_list2))
+    input_list2 = input() #'type the second number'  
+    sum_prod = sum_of_products(input_list1, input_list2)
+    print(sum_prod)
