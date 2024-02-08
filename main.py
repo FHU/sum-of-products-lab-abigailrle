@@ -16,7 +16,7 @@ def sum_of_products(list1, list2):
          #   index = 0 #pass #rint('Error: you must only input integers')
     #else:
      #   return 'Error' #: numbers must be the same length
-#yo
+#yo try this
 
 
 if __name__ == '__main__':
